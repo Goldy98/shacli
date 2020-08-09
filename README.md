@@ -24,9 +24,9 @@
 
 ## App Screenshots
 
-|                                                 Desktop App Home                                                  |                                                 Desktop App Sharing View                                                  |                                          Web Client Page                                           |
-| :---------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
-| <img src="https://github.com/Goldy98/shacli/screenshots/desktop-app-1.png" title="Desktop App Home" width="100%"> | <img src="https://github.com/Goldy98/shacli/screenshots/desktop-app-2.png" title="Desktop App Sharing page" width="100%"> | <img src="https://github.com/Goldy98/shacli/screenshots/web-app.png" title="Web app" width="100%"> |
+|                                                 Desktop App Home                                                 |                                                 Desktop App Sharing View                                                 |                                          Web Client Page                                          |
+| :--------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: |
+| <img src="https://goldy98.github.io/shacli/screenshots/desktop-app-1.png" title="Desktop App Home" width="100%"> | <img src="https://goldy98.github.io/shacli/screenshots/desktop-app-2.png" title="Desktop App Sharing page" width="100%"> | <img src="https://goldy98.github.io/shacli/screenshots/web-app.png" title="Web app" width="100%"> |
 
 ## Folder Structure
 
@@ -73,6 +73,13 @@ git clone https://github.com/goldy98/shacli.git
 ```
 
 ## Project setup
+
+### Create electron dist folder
+
+```shell
+cd shacli/
+mkdir dist_electron
+```
 
 ### Setting up client web app
 
