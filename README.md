@@ -24,9 +24,9 @@
 
 ## App Screenshots
 
-|                                                 Desktop App Home                                                 |                                                 Desktop App Sharing View                                                 |                                          Web Client Page                                          |
-| :--------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: |
-| <img src="https://goldy98.github.io/shacli/screenshots/desktop-app-1.png" title="Desktop App Home" width="100%"> | <img src="https://goldy98.github.io/shacli/screenshots/desktop-app-2.png" title="Desktop App Sharing page" width="100%"> | <img src="https://goldy98.github.io/shacli/screenshots/web-app.png" title="Web app" width="100%"> |
+|                                                  Desktop App Home                                                   |                                                    Desktop App Sharing View                                                     |                                             Web Client Page                                              |
+| :-----------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: |
+| <img src="https://goldy98.github.io/shacli/screenshots/desktop-app-home.png" title="Desktop App Home" width="100%"> | <img src="https://goldy98.github.io/shacli/screenshots/desktop-app-share-ui.png" title="Desktop App Sharing page" width="100%"> | <img src="https://goldy98.github.io/shacli/screenshots/web-client-app.png" title="Web app" width="100%"> |
 
 ## Folder Structure
 
