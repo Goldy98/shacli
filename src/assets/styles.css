@@ -1,0 +1,112 @@
+@font-face {
+  font-family: "Lato";
+  font-weight: bold;
+  src: url("./fonts/Lato/Lato-Bold.ttf");
+}
+
+@font-face {
+  font-family: "Lato";
+  font-weight: normal;
+  src: url("./fonts/Lato/Lato-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Lato";
+  font-weight: 100;
+  src: url("./fonts/Lato/Lato-Thin.ttf");
+}
+
+/* src: url("./fonts/Lato/Lato-Black.ttf");
+src: url("./fonts/Lato/Lato-Regular.ttf");
+src: url("./fonts/Lato/Lato-Thin.ttf");
+src: url("./fonts/Lato/Lato-Italic.ttf");
+src: url("./fonts/Lato/Lato-Thin.ttf"); */
+
+@font-face {
+  font-family: "Source Code Pro";
+  src: url("./fonts/Source_Sans_Pro/SourceSansPro-Black.ttf");
+  src: url("./fonts/Source_Sans_Pro/SourceSansPro-Bold.ttf");
+  src: url("./fonts/Source_Sans_Pro/SourceSansPro-Light.ttf");
+  src: url("./fonts/Source_Sans_Pro/SourceSansPro-Regular.ttf");
+}
+
+body {
+  font-family: "Lato", Arial, sans-serif;
+}
+
+/* Modifiers */
+.bg-primary {
+  background-color: #2178f9 !important;
+}
+
+.bg-primary-dark {
+  background-color: #050fc9 !important;
+}
+
+.border-primary {
+  border-color: #2178f9 !important;
+}
+
+.text-primary {
+  color: #2178f9 !important;
+}
+
+/* Common styles to all components */
+.app-header {
+  background: hsla(216, 95%, 55%, 1);
+
+  background: linear-gradient(
+    135deg,
+    hsla(216, 95%, 55%, 1) 0%,
+    hsla(256, 100%, 16%, 1) 100%
+  );
+
+  background: -moz-linear-gradient(
+    135deg,
+    hsla(216, 95%, 55%, 1) 0%,
+    hsla(256, 100%, 16%, 1) 100%
+  );
+
+  background: -webkit-linear-gradient(
+    135deg,
+    hsla(216, 95%, 55%, 1) 0%,
+    hsla(256, 100%, 16%, 1) 100%
+  );
+}
+
+/* Sweet modal customization */
+
+#fileToPasteModal
+  .sweet-modal.theme-light.has-title.has-content.is-mobile-fullscreen.is-visible {
+  color: black !important;
+  max-height: 490px !important;
+}
+
+.sweet-modal {
+  max-width: none;
+  margin-left: 25px;
+  height: auto !important;
+  margin-top: 40px;
+}
+
+.sweet-modal .sweet-title {
+  color: black;
+  padding-top: 20px;
+}
+
+.sweet-modal .sweet-title > h2 {
+  font-weight: bold !important;
+}
+
+.sweet-content {
+  padding: 0px !important;
+}
+
+.sweet-modal .sweet-content .sweet-modal-icon {
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+
+.sweet-modal .sweet-content .sweet-content-content {
+  color: black !important;
+}

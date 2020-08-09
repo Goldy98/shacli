@@ -1,6 +1,12 @@
 .DS_Store
 node_modules
 /dist
+/dist_electron
+/build
+/build/icons
+/shacli-client/node_modules
+/shacli-client/dist
+/public/client
 
 # local env files
 .env.local
@@ -20,3 +26,6 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+
+#Electron-builder output
+/dist_electron
