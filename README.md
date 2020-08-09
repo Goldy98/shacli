@@ -2,7 +2,7 @@
 
 <div align="center">
     <a href="https://goldy98.github.io/shacli">
-        <img src="https://github.com/goldy98/shacli/screenshots/logo.png">
+        <img src="https://goldy98.github.io/shacli/images/icon.png">
     </a>
 </div>
 
